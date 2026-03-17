@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+.env
+*.html
+*.png
+*.webp
+debug_route.py
+diagnose_api.py
+page_source.html
